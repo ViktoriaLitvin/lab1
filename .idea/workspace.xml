@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="661bf8d7-09af-4227-adc5-64e0daff7242" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rt2SUT05sz7D3QSrNA8IJ7NAD8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bsu.rfe.java.group6.lab1.Litvinenko.varC2.MainApplication" />
+      <module name="lab1" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;Apple/Большое&quot; &quot;Cheese/&quot; &quot;Cocktail/Молоко/Банан&quot; &quot;-calories&quot; &quot;-sort&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bsu.rfe.java.group6.lab1.Litvinenko.varC2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="661bf8d7-09af-4227-adc5-64e0daff7242" name="Default Changelist" comment="" />
+      <created>1570472071254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570472071254</updated>
+      <workItem from="1570472074026" duration="3807000" />
+      <workItem from="1570479130907" duration="4963000" />
+      <workItem from="1570603530836" duration="4083000" />
+      <workItem from="1570610776834" duration="589000" />
+      <workItem from="1571070939333" duration="2182000" />
+      <workItem from="1571073971132" duration="724000" />
+      <workItem from="1571379166971" duration="820000" />
+      <workItem from="1571383097822" duration="563000" />
+      <workItem from="1573030062060" duration="98000" />
+      <workItem from="1573035945852" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
